@@ -17,7 +17,7 @@ but the concepts apply to any cloud model.
 | 4 | - Data/Database-as-a-Service. <br> - NoSQL models. |
 | 5 | - Publish/Subscribe, event drive architectures. |
 | 6 | - Function-as-a-Service. |
-| 7 | - Security, OAuth2, authorization and policy. |
+| 7 | - Security, OAuth2, authorization and policy. <br> - CI/CD ||
 | 8 | - API management, API gateways, using cloud APIs. |
 | 9 | - Application and infrastructure management. |
 | 10 | - Service composition and services orchestration. |
