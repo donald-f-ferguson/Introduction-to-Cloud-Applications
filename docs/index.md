@@ -10,14 +10,14 @@ but the concepts apply to any cloud model.
 # Lectures
 
 | No. | Topics |
-|:---: |:--- |
+|:---: | :--- |
 | 1 | - Introduction to IaaS, containers, PaaS, SaaS.<br> - Microservices and REST.<br> |
 | 2 | - VMs and containers.<br> - Basics of Docker and Kubernetes. |
-| 3 | - Basics of browser based UIs and applications.<br> - REST, websockets. <br> - Web site hosting. <br> - CDNs <br>
+| 3 | - Basics of browser based UIs and applications.<br> - REST, websockets. <br> - Web site hosting. <br> - CDNs <br> |
 | 4 | - Data/Database-as-a-Service. <br> - NoSQL models. |
 | 5 | - Publish/Subscribe, event drive architectures. |
 | 6 | - Function-as-a-Service. |
-| 7 | - Security, OAuth2, authorization and policy. <br> - CI/CD ||
+| 7 | - Security, OAuth2, authorization and policy. <br> - CI/CD |
 | 8 | - API management, API gateways, using cloud APIs. |
 | 9 | - Application and infrastructure management. |
 | 10 | - Service composition and services orchestration. |
