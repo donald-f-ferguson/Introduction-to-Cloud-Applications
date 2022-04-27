@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# Overview
 
-You can use the [editor on GitHub](https://github.com/donald-f-ferguson/Introduction-to-Cloud-Applications/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+This course provides an introduction and overview to developing ["cloud native"](https://www.cncf.io/) or "cloud first"
+applications. The course is a set of 10 one-hour 
+lectures that cover, at a high level, the core concepts. The accompanying
+material provides examples of each of the concepts. The lectures suggest simple projects that students can implement
+to get firsthand experience with the technology. The material focuses on [Amazon Web Services](https://aws.amazon.com/),
+but the concepts apply to any cloud model.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Lectures
 
-### Markdown
+| No. | Topics |
+|:---: |:--- |
+| 1 | - Introduction to IaaS, containers, PaaS, SaaS.<br> - Microservices and REST.<br> |
+| 2 | - VMs and containers.<br> - Basics of Docker and Kubernetes. |
+| 3 | - Basics of browser based UIs and applications.<br> - REST, websockets. <br> - Web site hosting. <br> - CDNs <br>
+| 4 | - Data/Database-as-a-Service. <br> - NoSQL models. |
+| 5 | - Publish/Subscribe, event drive architectures. |
+| 6 | - Function-as-a-Service. |
+| 7 | - Security, OAuth2, authorization and policy. |
+| 8 | - API management, API gateways, using cloud APIs. |
+| 9 | - Application and infrastructure management. |
+| 10 | - Service composition and services orchestration. |
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/donald-f-ferguson/Introduction-to-Cloud-Applications/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
