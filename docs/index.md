@@ -7,7 +7,7 @@ material provides examples of each of the concepts. The lectures suggest simple 
 to get firsthand experience with the technology. The material focuses on [Amazon Web Services](https://aws.amazon.com/),
 but the concepts apply to any cloud model.
 
-# Lectures
+# Syllabus
 
 | No. | Topics |
 |:---: | :--- |
@@ -22,3 +22,10 @@ but the concepts apply to any cloud model.
 | 9 | - Application and infrastructure management. |
 | 10 | - Service composition and services orchestration. |
 
+# Course Material
+
+- First microservice Git repo. (https://github.com/donald-f-ferguson/Introduction-to-Cloud-Applications.git)
+
+__Lectures:__<br><br>
+    1. Lecture 1: _Introduction, Core Concepts._
+        - PPT: 
